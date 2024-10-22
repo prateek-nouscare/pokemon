@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82130540480",
+    "project_id": "retis-c16f0",
+    "storage_bucket": "retis-c16f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82130540480:android:1fa63ee2d9d24269659a25",
+        "android_client_info": {
+          "package_name": "com.app.gretis.gretisapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_HHN_ffTeihwrbOy6j74-IjrqRB0uJXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
